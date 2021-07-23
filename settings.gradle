@@ -1,0 +1,9 @@
+include ':zapt-annotation'
+include ':z-apt-procesor'
+include ':myZarouterlibrary'
+include ':Zarouterlib'
+include ':steeringwheel'
+include ':zarouter-annotation'
+include ':Zbase'
+include ':app'
+rootProject.name = "Zrouter"

@@ -1,0 +1,26 @@
+==================
+FFmpeg 免费开源的视频和音频流解决方案，底层技术，负责音视频的编码、解码技术，提供了录制、转换以及流化音视频的解决方案
+对应技术需要掌握音视频编码流程。图片压缩。视频压缩等
+
+=======当前主流视频框架分析=============
+1.ijkplayer。哔哩哔哩开源的轻量级播放框架，直接跨平台Android 、已经ios端
+    缺点：扩展性差
+
+2.VLC。一个开源的自组织、自由开源的跨平台播放框架。支持类型全面,
+    缺点：种类繁多，文档不明确，上手难度较大
+    https://code.videolan.org/videolan/vlc-android
+
+3.android-FFmpeg 官方： https://github.com/FFmpeg/FFmpeg
+
+                 第三方: https://github.com/appunite/AndroidFFmpeg
+
+4.Vitamio  Android和IOS平台的多媒体开发框架，支持硬件解码和GPU渲染，使用起来比较简单   地址:https://github.com/yixia/VitamioBundle
+
+5.JiaoZiVideoPlayer  一款国人开发的小众的播放器，使用简单，体积小 地址：https://github.com/lipangit/JiaoZiVideoPlayer
+
+6.SmartPlayer  地址:https://github.com/daniulive/SmarterStreaming
+
+7.ExoPlayer
+
+
+=====RTMP协议========
